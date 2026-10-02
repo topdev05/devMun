@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Samuel Munyi 👋</h1>
+<h1 align="center">Hello, World! 👋</h1>
 <h3 align="center">Senior Full Stack Engineer · TypeScript · React · Node.js · DevOps · AI Integration</h3>
 
 &nbsp;
 
 ### ABOUT ME
 
-Senior Full Stack Engineer with 5+ years building and scaling production systems in fintech. I specialize in end-to-end TypeScript systems — scalable REST/GraphQL APIs, React/Next.js frontends, distributed microservices, and AI-integrated backends.
+Senior Full Stack Engineer  building and scaling production systems in fintech. I specialize in end-to-end TypeScript systems — scalable REST/GraphQL APIs, React/Next.js frontends, distributed microservices, and AI-integrated backends.
 
 I've shipped production features handling high-volume transactions, led architectural modernization from monolith to microservices, and integrated AI into real-world workflows — from OCR-based identity verification to Claude-powered course generation.
 
